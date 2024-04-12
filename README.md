@@ -41,4 +41,4 @@ Running Tests
 To run the tests for the project, use the following command
 npm test
 
-This project was built using react 
+This project was built using react and Javascript
